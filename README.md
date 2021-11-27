@@ -1,13 +1,4 @@
-# COMP3900 Computer Science Project - Internship404
-
-## Project 5 - CookBook - E-Commerce Recommender System 
-
-### Group Members
-- Jenna Chan - z5259784 
-- Trina (Ya-Ting) Chang - z5236461 
-- Maria Cuyutupa Garcia - z5223865 
-- Louis Limmarga - z5261841 
-- Wincent Winarko - z5240353 
+##  CookBook - E-Commerce Recommender System 
 
 ### What is CookBook
 
