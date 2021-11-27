@@ -1,8 +1,3 @@
-COMP3900-h18b-internship404
-
-GitHub Repo: https://github.com/unsw-cse-comp3900-9900-21T3/capstone-project-3900-h18b-internship404
-Jira Page: https://comp3900-h18b-internship404.atlassian.net/jira/software/projects/CHI/boards/1
-
 Directory File Structure: 
     backend/ Directory
         - Contains all backend code using Flask framework
