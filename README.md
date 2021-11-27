@@ -38,8 +38,6 @@ Notes: Make sure you have installed node.js (recommended version: 12.16.2) and p
 
 1. Git clone or download this repo
 
-  ` $ git clone git@github.com:unsw-cse-comp3900-9900-21T3/capstone-project-3900-h18b-internship404.git CookBook`
-
 2. Change directory to CookBook's backend
 
   ` $ cd CookBook/backend `
