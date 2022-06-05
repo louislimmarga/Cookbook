@@ -1,8 +1,8 @@
 ##  CookBook - E-Commerce Recommender System 
 
 ### What is CookBook
-
 CookBook is an ecommerce system which sells grocery items filtered by recipe. A user will search or be recommended a recipe, then proceed to add all required ingredients to the cart with a few clicks. This increases the convenience of shopping for groceries as items do not need to be added and searched for individually. The platform also allows users to share, recipes and link ingredients so that other users can purchases them. CookBook allows for customisation of the cart so items can be added, removed or replaced, giving the customer increased flexibility.  
+
 
 CookBook has two novel features: 1. The recommender system and 2. The community functions. CookBook has the functionality to make several types of recommendations – recommendations of recipes based on past purchases, questionnaire results, similar recipes or similar ingredients. The recommendation system encourages users to try new recipes and buy new ingredients and hence increases profits. Community functions such as adding recipes and rating/ commenting on recipes is highly encouraged through the use of CookBook Rewards points. Points are award when another user purchases items one’s uploaded recipe. These points can be converted into monetary values for use in a future purchase.
 
