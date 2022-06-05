@@ -10,7 +10,7 @@ Directory File Structure:
     Diaries Directory 
         - Contains individual diaries from all students in the group
 
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Assumptions:
     - NodeJS has been installed such that 'npm' can be used
 
